@@ -1,0 +1,7004 @@
+{
+  "data": [
+    { "lowkey":4186,
+    "pairs": [
+      {
+        "highkey": 5274,
+        "tonetag": "03L03H1"
+      },
+      {
+        "highkey": 5588,
+        "tonetag": "03L03H2"
+      },
+      {
+        "highkey": 6272,
+        "tonetag": "03L03H3"
+      },
+      {
+        "highkey": 6645,
+        "tonetag": "03L03H4"
+      },
+      {
+        "highkey": 7040,
+        "tonetag": "03L03H5"
+      }
+    ]
+  },
+    
+    { "lowkey":4435,
+    "pairs": [
+      {
+        "highkey": 5588,
+        "tonetag": "03L03H6"
+      },
+      {
+        "highkey": 5920,
+        "tonetag": "03L03H7"
+      },
+      {
+        "highkey": 6272,
+        "tonetag": "03L03H8"
+      },
+      {
+        "highkey": 6645,
+        "tonetag": "03L03H9"
+      },
+      {
+        "highkey": 7040,
+        "tonetag": "03L03H0"
+      },
+      
+      {
+        "highkey": 7459,
+        "tonetag": "03L03HA"
+      }
+    ]
+  },
+    { "lowkey":4699,
+    "pairs": [
+      {
+        "highkey": 5920,
+        "tonetag": "03L03HB"
+      },
+      {
+        "highkey": 6272,
+        "tonetag": "03L03HC"
+      },
+      {
+        "highkey": 7040,
+        "tonetag": "03L03HD"
+      },
+      {
+        "highkey": 7459,
+        "tonetag": "03L03HE"
+      },
+      {
+        "highkey": 7902,
+        "tonetag": "03L03HF"
+      }
+    ]
+  },
+    { "lowkey":4978,
+    "pairs": [
+      {
+        "highkey": 6272,
+        "tonetag": "03L03HG"
+      },
+      {
+        "highkey": 6645,
+        "tonetag": "03L03HH"
+      },
+      {
+        "highkey": 7459,
+        "tonetag": "03L03HI"
+      },
+      {
+        "highkey": 7920,
+        "tonetag": "03L03HJ"
+      }
+    ]
+  },
+    { "lowkey":5274,
+    "pairs": [
+      {
+        "highkey": 6645,
+        "tonetag": "03L03HL"
+      },
+      {
+        "highkey": 7040,
+        "tonetag": "03L03HM"
+      },
+      {
+        "highkey": 7902,
+        "tonetag": "03L03HN"
+      }
+    ]
+  },
+    { "lowkey":5588,
+    "pairs": [
+      {
+        "highkey": 7040,
+        "tonetag": "03L03HQ"
+      },
+      {
+        "highkey": 7459,
+        "tonetag": "03L03HR"
+      }
+    ]
+  },
+    { "lowkey":5920,
+    "pairs": [
+      {
+        "highkey": 7459,
+        "tonetag": "03L03HV"
+      },
+      {
+        "highkey": 7902,
+        "tonetag": "03L03HW"
+      }
+    ]
+  },
+    { "lowkey":6272,
+    "pairs": [
+      {
+        "highkey": 7902,
+        "tonetag": "03L03H*"
+      }
+    ]
+  },
+    { "lowkey":14040,
+    "pairs": [
+      {
+        "highkey": 14298,
+        "tonetag": "14L14H1"
+      },
+      {
+        "highkey": 14341,
+        "tonetag": "14L14H2"
+      },
+      {
+        "highkey": 14384,
+        "tonetag": "14L14H3"
+      },
+      {
+        "highkey": 14427,
+        "tonetag": "14L14H4"
+      }
+    ]
+  },
+    { "lowkey":14083,
+    "pairs": [
+      {
+        "highkey": 14341,
+        "tonetag": "14L14H5"
+      },
+      {
+        "highkey": 14384,
+        "tonetag": "14L14H6"
+      },
+      {
+        "highkey": 14427,
+        "tonetag": "14L14H7"
+      },
+      {
+        "highkey": 14470,
+        "tonetag": "14L14H8"
+      }
+    ]
+  },
+    { "lowkey":14126,
+    "pairs": [
+      {
+        "highkey": 14384,
+        "tonetag": "14L14H9"
+      },
+      {
+        "highkey": 14427,
+        "tonetag": "14L14H0"
+      },
+      {
+        "highkey": 14470,
+        "tonetag": "14L14HA"
+      },
+      {
+        "highkey": 14513,
+        "tonetag": "14L14HB"
+      }
+    ]
+  },
+    { "lowkey":14169,
+    "pairs": [
+      {
+        "highkey": 14427,
+        "tonetag": "14L14HC"
+      },
+      {
+        "highkey": 14470,
+        "tonetag": "14L14HD"
+      },
+      {
+        "highkey": 14513,
+        "tonetag": "14L14HE"
+      },
+      {
+        "highkey": 14556,
+        "tonetag": "14L14HF"
+      }
+    ]
+  },
+    { "lowkey":14212,
+    "pairs": [
+      {
+        "highkey": 14470,
+        "tonetag": "14L14HG"
+      },
+      {
+        "highkey": 14513,
+        "tonetag": "14L14HH"
+      },
+      {
+        "highkey": 14556,
+        "tonetag": "14L14HI"
+      },
+      {
+        "highkey": 14600,
+        "tonetag": "14L14HJ"
+      }
+    ]
+  },
+    { "lowkey":14255,
+    "pairs": [
+      {
+        "highkey": 14513,
+        "tonetag": "14L14HK"
+      },
+      {
+        "highkey": 14556,
+        "tonetag": "14L14HL"
+      },
+      {
+        "highkey": 14600,
+        "tonetag": "14L14HM"
+      },
+      {
+        "highkey": 14643,
+        "tonetag": "14L14HN"
+      }
+    ]
+  },
+    { "lowkey":14298,
+    "pairs": [
+      {
+        "highkey": 14556,
+        "tonetag": "14L14HO"
+      },
+      {
+        "highkey": 14600,
+        "tonetag": "14L14HP"
+      },
+      {
+        "highkey": 14643,
+        "tonetag": "14L14HQ"
+      },
+      {
+        "highkey": 14686,
+        "tonetag": "14L14HR"
+      }
+    ]
+  },
+    { "lowkey":14341,
+    "pairs": [
+      {
+        "highkey": 14600,
+        "tonetag": "14L14HS"
+      },
+      {
+        "highkey": 14643,
+        "tonetag": "14L14HT"
+      },
+      {
+        "highkey": 14686,
+        "tonetag": "14L14HU"
+      },
+      {
+        "highkey": 14729,
+        "tonetag": "14L14HV"
+      }
+    ]
+  },
+    { "lowkey":14384,
+    "pairs": [
+      {
+        "highkey": 14643,
+        "tonetag": "14L14HW"
+      },
+      {
+        "highkey": 14686,
+        "tonetag": "14L14HX"
+      },
+      {
+        "highkey": 14729,
+        "tonetag": "14L14HY"
+      },
+      {
+        "highkey": 14772,
+        "tonetag": "14L14HZ"
+      }
+    ]
+  },
+    { "lowkey":14427,
+    "pairs": [
+      {
+        "highkey": 14686,
+        "tonetag": "14L14H*"
+      },
+      {
+        "highkey": 14729,
+        "tonetag": "14L14H^"
+      },
+      {
+        "highkey": 14772,
+        "tonetag": "14L14H["
+      },
+      {
+        "highkey": 14815,
+        "tonetag": "14L14H]"
+      }
+    ]
+  },
+    { "lowkey":14470,
+    "pairs": [
+      {
+        "highkey": 14729,
+        "tonetag": "14L14H{"
+      },
+      {
+        "highkey": 14772,
+        "tonetag": "14L14H}"
+      },
+      {
+        "highkey": 14815,
+        "tonetag": "14L14H|"
+      },
+      {
+        "highkey": 14858,
+        "tonetag": "14L14H<"
+      }
+    ]
+  },
+    { "lowkey":14513,
+    "pairs": [
+      {
+        "highkey": 14772,
+        "tonetag": "14L14H>"
+      },
+      {
+        "highkey": 14815,
+        "tonetag": "14L14H$"
+      },
+      {
+        "highkey": 14858,
+        "tonetag": "14L14H%"
+      },
+      {
+        "highkey": 14901,
+        "tonetag": "14L14H#"
+      }
+    ]
+  },
+    { "lowkey":14556,
+    "pairs": [
+      {
+        "highkey": 14815,
+        "tonetag": "14L14H@"
+      },
+      {
+        "highkey": 14858,
+        "tonetag": "14L14H!"
+      },
+      {
+        "highkey": 14901,
+        "tonetag": "14L14H("
+      },
+      {
+        "highkey": 14944,
+        "tonetag": "14L14H)"
+      }
+    ]
+  },
+    { "lowkey":14600,
+    "pairs": [
+      {
+        "highkey": 14858,
+        "tonetag": "14L14H+"
+      },
+      {
+        "highkey": 14901,
+        "tonetag": "14L14H-"
+      },
+      {
+        "highkey": 14944,
+        "tonetag": "14L14H="
+      },
+      {
+        "highkey": 14987,
+        "tonetag": "14L14H&"
+      }
+    ]
+  },
+    { "lowkey":14643,
+    "pairs": [
+      {
+        "highkey": 14901,
+        "tonetag": "14L14H\\"
+      },
+      {
+        "highkey": 14944,
+        "tonetag": "14L14H/"
+      }
+    ]
+  },
+    { "lowkey":15030,
+    "pairs": [
+      {
+        "highkey": 15289,
+        "tonetag": "15L15H1"
+      },
+      {
+        "highkey": 15332,
+        "tonetag": "15L15H2"
+      },
+      {
+        "highkey": 15375,
+        "tonetag": "15L15H3"
+      },
+      {
+        "highkey": 15418,
+        "tonetag": "15L15H4"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15L16H1"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15L16H2"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15L16H3"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15L16H4"
+      },
+      {
+        "highkey": 16021,
+        "tonetag": "15L16L1"
+      },
+      {
+        "highkey": 16021,
+        "tonetag": "15L16L2"
+      },
+      {
+        "highkey": 16021,
+        "tonetag": "15L16L3"
+      },
+      {
+        "highkey": 16021,
+        "tonetag": "15L16L4"
+      }
+    ]
+  },
+    { "lowkey":15073,
+    "pairs": [
+      {
+        "highkey": 15332,
+        "tonetag": "15L15H5"
+      },
+      {
+        "highkey": 15375,
+        "tonetag": "15L15H6"
+      },
+      {
+        "highkey": 15418,
+        "tonetag": "15L15H7"
+      },
+      {
+        "highkey": 15461,
+        "tonetag": "15L15H8"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15L16H5"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15L16H6"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15L16H7"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15L16H8"
+      },
+      {
+        "highkey": 16064,
+        "tonetag": "15L16L5"
+      },
+      {
+        "highkey": 16064,
+        "tonetag": "15L16L6"
+      },
+      {
+        "highkey": 16064,
+        "tonetag": "15L16L7"
+      },
+      {
+        "highkey": 16064,
+        "tonetag": "15L16L8"
+      }
+    ]
+  },
+    { "lowkey":15116,
+    "pairs": [
+      {
+        "highkey": 15375,
+        "tonetag": "15L15H9"
+      },
+      {
+        "highkey": 15418,
+        "tonetag": "15L15H0"
+      },
+      {
+        "highkey": 15461,
+        "tonetag": "15L15HA"
+      },
+      {
+        "highkey": 15504,
+        "tonetag": "15L15HB"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15L16H9"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15L16H0"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15L16HA"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15L16HB"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15L16L9"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15L16L0"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15L16LA"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15L16LB"
+      }
+    ]
+  },
+    { "lowkey":15159,
+    "pairs": [
+      {
+        "highkey": 15418,
+        "tonetag": "15L15HC"
+      },
+      {
+        "highkey": 15461,
+        "tonetag": "15L15HD"
+      },
+      {
+        "highkey": 15504,
+        "tonetag": "15L15HE"
+      },
+      {
+        "highkey": 15547,
+        "tonetag": "15L15HF"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15L16HC"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15L16HD"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15L16HE"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15L16HF"
+      },
+      {
+        "highkey": 16150,
+        "tonetag": "15L16LC"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15L16LD"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15L16LE"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15L16LF"
+      }
+    ]
+  },
+    { "lowkey":15202,
+    "pairs": [
+      {
+        "highkey": 15461,
+        "tonetag": "15L15HG"
+      },
+      {
+        "highkey": 15504,
+        "tonetag": "15L15HH"
+      },
+      {
+        "highkey": 15547,
+        "tonetag": "15L15HI"
+      },
+      {
+        "highkey": 15590,
+        "tonetag": "15L15HJ"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15L16HG"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15L16HH"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15L16HI"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15L16HJ"
+      },
+      {
+        "highkey": 16193,
+        "tonetag": "15L16LG"
+      },
+      {
+        "highkey": 16193,
+        "tonetag": "15L16LH"
+      },
+      {
+        "highkey": 16193,
+        "tonetag": "15L16LI"
+      },
+      {
+        "highkey": 16193,
+        "tonetag": "15L16LJ"
+      }
+    ]
+  },
+    { "lowkey":15246,
+    "pairs": [
+      {
+        "highkey": 15504,
+        "tonetag": "15L15HK"
+      },
+      {
+        "highkey": 15547,
+        "tonetag": "15L15HL"
+      },
+      {
+        "highkey": 15590,
+        "tonetag": "15L15HM"
+      },
+      {
+        "highkey": 15631,
+        "tonetag": "15L15HN"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15L16HK"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15L16HL"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15L16HM"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15L16HN"
+      },
+      {
+        "highkey": 16236,
+        "tonetag": "15L16LK"
+      },
+      {
+        "highkey": 16236,
+        "tonetag": "15L16LL"
+      },
+      {
+        "highkey": 16236,
+        "tonetag": "15L16LM"
+      },
+      {
+        "highkey": 16236,
+        "tonetag": "15L16LN"
+      }
+    ]
+  },
+    { "lowkey":15289,
+    "pairs": [
+      {
+        "highkey": 15547,
+        "tonetag": "15L15HO"
+      },
+      {
+        "highkey": 15590,
+        "tonetag": "15L15HP"
+      },
+      {
+        "highkey": 15631,
+        "tonetag": "15L15HQ"
+      },
+      {
+        "highkey": 15676,
+        "tonetag": "15L15HR"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15H16H1"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15L16HO"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15L16HP"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15L16HQ"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "15L16HR"
+      },
+      {
+        "highkey": 16021,
+        "tonetag": "15H16L1"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15L16LO"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15L16LP"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15L16LQ"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15L16LR"
+      }
+    ]
+  },
+    { "lowkey":15332,
+    "pairs": [
+      {
+        "highkey": 15590,
+        "tonetag": "15L15HS"
+      },
+      {
+        "highkey": 15631,
+        "tonetag": "15L15HT"
+      },
+      {
+        "highkey": 15676,
+        "tonetag": "15L15HU"
+      },
+      {
+        "highkey": 15719,
+        "tonetag": "15L15HV"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15H16H2"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15H16H5"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15L16HS"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15L16HT"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "15L16HU"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "15L16HV"
+      },
+      {
+        "highkey": 16021,
+        "tonetag": "15H16L2"
+      },
+      {
+        "highkey": 16064,
+        "tonetag": "15H16L5"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15L16LS"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15L16LT"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15L16LU"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15L16LV"
+      }
+    ]
+  },
+    { "lowkey":15375,
+    "pairs": [
+      {
+        "highkey": 15631,
+        "tonetag": "15L15HW"
+      },
+      {
+        "highkey": 15676,
+        "tonetag": "15L15HX"
+      },
+      {
+        "highkey": 15719,
+        "tonetag": "15L15HY"
+      },
+      {
+        "highkey": 15762,
+        "tonetag": "15L15HZ"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15H16H3"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15H16H6"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15H16H9"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15L16HW"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "15L16HX"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "15L16HY"
+      },
+      {
+        "highkey": 16753,
+        "tonetag": "15L16HZ"
+      },
+      {
+        "highkey": 16021,
+        "tonetag": "15H16L3"
+      },
+      {
+        "highkey": 16064,
+        "tonetag": "15H16L6"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15H16L9"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15L16LW"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15L16LX"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15L16LY"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15L16LZ"
+      }
+    ]
+  },
+    { "lowkey":15418,
+    "pairs": [
+      {
+        "highkey": 15676,
+        "tonetag": "15L15H*"
+      },
+      {
+        "highkey": 15719,
+        "tonetag": "15L15H^"
+      },
+      {
+        "highkey": 15762,
+        "tonetag": "15L15H["
+      },
+      {
+        "highkey": 15805,
+        "tonetag": "15L15H]"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15H16H4"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15H16H7"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15H16H0"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15H16HC"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "15L16H*"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "15L16H^"
+      },
+      {
+        "highkey": 16753,
+        "tonetag": "15L16H["
+      },
+      {
+        "highkey": 16796,
+        "tonetag": "15L16H]"
+      },
+      {
+        "highkey": 16021,
+        "tonetag": "15H16L4"
+      },
+      {
+        "highkey": 16064,
+        "tonetag": "15H16L7"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15H16L0"
+      },
+      {
+        "highkey": 16150,
+        "tonetag": "15H16LC"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15L16L*"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15L16L^"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15L16L["
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15L16L]"
+      }
+    ]
+  },
+    { "lowkey":15461,
+    "pairs": [
+      {
+        "highkey": 15719,
+        "tonetag": "15L15H{"
+      },
+      {
+        "highkey": 15762,
+        "tonetag": "15L15H}"
+      },
+      {
+        "highkey": 15805,
+        "tonetag": "15L15H|"
+      },
+      {
+        "highkey": 15848,
+        "tonetag": "15L15H<"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15H16H8"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15H16HA"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15H16HD"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15H16HG"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "15L16H{"
+      },
+      {
+        "highkey": 16753,
+        "tonetag": "15L16H}"
+      },
+      {
+        "highkey": 16796,
+        "tonetag": "15L16H|"
+      },
+      {
+        "highkey": 16839,
+        "tonetag": "15L16H<"
+      },
+      {
+        "highkey": 16064,
+        "tonetag": "15H16L8"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15H16LA"
+      },
+      {
+        "highkey": 16150,
+        "tonetag": "15H16LD"
+      },
+      {
+        "highkey": 16193,
+        "tonetag": "15H16LG"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15L16L{"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15L16L}"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15L16L|"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15L16L<"
+      }
+    ]
+  },
+    { "lowkey":15504,
+    "pairs": [
+      {
+        "highkey": 15762,
+        "tonetag": "15L15H>"
+      },
+      {
+        "highkey": 15805,
+        "tonetag": "15L15H$"
+      },
+      {
+        "highkey": 15848,
+        "tonetag": "15L15H%"
+      },
+      {
+        "highkey": 15891,
+        "tonetag": "15L15H#"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15H16HB"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15H16HE"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15H16HH"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15H16HE"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15H16HK"
+      },
+      {
+        "highkey": 16753,
+        "tonetag": "15L16H>"
+      },
+      {
+        "highkey": 16796,
+        "tonetag": "15L16H$"
+      },
+      {
+        "highkey": 16839,
+        "tonetag": "15L16H%"
+      },
+      {
+        "highkey": 16882,
+        "tonetag": "15L16H#"
+      },
+      {
+        "highkey": 16107,
+        "tonetag": "15H16LB"
+      },
+      {
+        "highkey": 16150,
+        "tonetag": "15H16LE"
+      },
+      {
+        "highkey": 16150,
+        "tonetag": "15H16LH"
+      },
+      {
+        "highkey": 16236,
+        "tonetag": "15H16LK"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15L16L>"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15L16L$"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15L16L%"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "15L16L#"
+      }
+    ]
+  },
+    { "lowkey":15547,
+    "pairs": [
+      {
+        "highkey": 15805,
+        "tonetag": "15L15H@"
+      },
+      {
+        "highkey": 15848,
+        "tonetag": "15L15H!"
+      },
+      {
+        "highkey": 15891,
+        "tonetag": "15L15H("
+      },
+      {
+        "highkey": 15935,
+        "tonetag": "15L15H)"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15H16HF"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15H16HI"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15H16HL"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15H16HO"
+      },
+      {
+        "highkey": 16796,
+        "tonetag": "15L16H@"
+      },
+      {
+        "highkey": 16839,
+        "tonetag": "15L16H!"
+      },
+      {
+        "highkey": 16882,
+        "tonetag": "15L16H("
+      },
+      {
+        "highkey": 16925,
+        "tonetag": "15L16H)"
+      },
+      {
+        "highkey": 16150,
+        "tonetag": "15H16LF"
+      },
+      {
+        "highkey": 16150,
+        "tonetag": "15H16LI"
+      },
+      {
+        "highkey": 16236,
+        "tonetag": "15H16LL"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15H16LO"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15L16L@"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15L16L!"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15L16L("
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "15L16L)"
+      }
+    ]
+  },
+    { "lowkey":15590,
+    "pairs": [
+      {
+        "highkey": 15848,
+        "tonetag": "15L15H+"
+      },
+      {
+        "highkey": 15891,
+        "tonetag": "15L15H-"
+      },
+      {
+        "highkey": 15935,
+        "tonetag": "15L15H="
+      },
+      {
+        "highkey": 15978,
+        "tonetag": "15L15H&"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15H16HJ"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15H16HM"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15H16HP"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15H16HS"
+      },
+      {
+        "highkey": 16839,
+        "tonetag": "15L16H+"
+      },
+      {
+        "highkey": 16882,
+        "tonetag": "15L16H-"
+      },
+      {
+        "highkey": 16925,
+        "tonetag": "15L16H="
+      },
+      {
+        "highkey": 16968,
+        "tonetag": "15L16H&"
+      },
+      {
+        "highkey": 16150,
+        "tonetag": "15H16LJ"
+      },
+      {
+        "highkey": 16236,
+        "tonetag": "15H16LM"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15H16LP"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15H16LS"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15L16L+"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15L16L-"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15L16L="
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "15L16L&"
+      }
+    ]
+  },
+    { "lowkey":15631,
+    "pairs": [
+      {
+        "highkey": 15891,
+        "tonetag": "15L15H\\"
+      },
+      {
+        "highkey": 15935,
+        "tonetag": "15L15H/"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15H16HN"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15H16HQ"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15H16HT"
+      },
+      {
+          "highkey": 16624,
+          "tonetag": "15H16HW"
+      },
+      {
+        "highkey": 16882,
+        "tonetag": "15L16H\\"
+      },
+      {
+        "highkey": 16925,
+        "tonetag": "15L16H/"
+      },
+      {
+        "highkey": 16236,
+        "tonetag": "15H16LN"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15H16LQ"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15H16LT"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15H16LW"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15L16L\\"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "15L16L/"
+      }
+    ]
+  },
+    { "lowkey":15676,
+    "pairs": [
+      {
+        "highkey": 16667,
+        "tonetag": "15H16HR"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "15H16HU"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "15H16HX"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "15H16H*"
+      },
+      {
+        "highkey": 16279,
+        "tonetag": "15H16LR"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15H16LU"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15H16LX"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15H16L*"
+      }
+    ]
+  },
+    { "lowkey":15719,
+    "pairs": [
+      {
+        "highkey": 16667,
+        "tonetag": "15H16HR"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "15H16HV"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "15H16HY"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "15H16H^"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "15H16H{"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "15H16LV"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "15H16LY"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "15H16L^"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "15H16L{"
+      }
+    ]
+  },
+    { "lowkey":15762,
+      "pairs": [
+        {
+          "highkey": 16753,
+          "tonetag": "15H16HZ"
+        },
+        {
+          "highkey": 16753,
+          "tonetag": "15H16H["
+        },
+        {
+          "highkey": 16753,
+          "tonetag": "15H16H}"
+        },
+        {
+          "highkey": 16753,
+          "tonetag": "15H16H>"
+        },
+        {
+          "highkey": 16365,
+          "tonetag": "15H16LZ"
+        },
+        {
+          "highkey": 16408,
+          "tonetag": "15H16L["
+        },
+        {
+          "highkey": 16451,
+          "tonetag": "15H16L}"
+        },
+        {
+          "highkey": 16494,
+          "tonetag": "15H16L>"
+        }
+      ]
+    },
+    { "lowkey":15805,
+        "pairs": [
+          {
+            "highkey": 16796,
+            "tonetag": "15H16H]"
+          },
+          {
+            "highkey": 16796,
+            "tonetag": "15H16H|"
+          },
+          {
+            "highkey": 16796,
+            "tonetag": "15H16H$"
+          },
+          {
+            "highkey": 16796,
+            "tonetag": "15H16H@"
+          },
+          {
+            "highkey": 16408,
+            "tonetag": "15H16L]"
+          },
+          {
+            "highkey": 16451,
+            "tonetag": "15H16L|"
+          },
+          {
+            "highkey": 16494,
+            "tonetag": "15H16L$"
+          },
+          {
+            "highkey": 16537,
+            "tonetag": "15H16L@"
+          }
+        ]
+      },
+    { "lowkey":15848,
+        "pairs": [
+          {
+            "highkey": 16839,
+            "tonetag": "15H16H<"
+          },
+          {
+            "highkey": 16839,
+            "tonetag": "15H16H%"
+          },
+          {
+            "highkey": 16839,
+            "tonetag": "15H16H!"
+          },
+          {
+            "highkey": 16839,
+            "tonetag": "15H16H+"
+          },
+          {
+            "highkey": 16451,
+            "tonetag": "15H16L<"
+          },
+          {
+            "highkey": 16494,
+            "tonetag": "15H16L%"
+          },
+          {
+            "highkey": 16537,
+            "tonetag": "15H16L!"
+          },
+          {
+            "highkey": 16581,
+            "tonetag": "15H16L+"
+          }
+        ]
+      },
+    { "lowkey":15891,
+        "pairs": [
+          {
+            "highkey": 16882,
+            "tonetag": "15H16H#"
+          },
+          {
+            "highkey": 16882,
+            "tonetag": "15H16H("
+          },
+          {
+            "highkey": 16882,
+            "tonetag": "15H16H-"
+          },
+          {
+            "highkey": 16882,
+            "tonetag": "15H16H\\"
+          },
+          {
+            "highkey": 16494,
+            "tonetag": "15H16L#"
+          },
+          {
+            "highkey": 16537,
+            "tonetag": "15H16L("
+          },
+          {
+            "highkey": 16581,
+            "tonetag": "15H16L-"
+          },
+          {
+            "highkey": 16624,
+            "tonetag": "15H16L\\"
+          }
+        ]
+      },
+    { "lowkey":15935,
+        "pairs": [
+          {
+            "highkey": 16925,
+            "tonetag": "15H16H)"
+          },
+          {
+            "highkey": 16925,
+            "tonetag": "15H16H("
+          },
+          {
+            "highkey": 16925,
+            "tonetag": "15H16H="
+          },
+          {
+            "highkey": 16925,
+            "tonetag": "15H16H/"
+          },
+          {
+            "highkey": 16537,
+            "tonetag": "15H16L)"
+          },
+          {
+            "highkey": 16581,
+            "tonetag": "15H16L="
+          },
+          {
+            "highkey": 16624,
+            "tonetag": "15H16L/"
+          }
+        ]
+      },
+    { "lowkey":15978,
+        "pairs": [
+          {
+            "highkey": 16968,
+            "tonetag": "15H16H&"
+          },
+          {
+            "highkey": 16581,
+            "tonetag": "15H16L&"
+          }
+        ]
+      },
+    { "lowkey":16021,
+    "pairs": [
+      {
+        "highkey": 16279,
+        "tonetag": "16L16H1"
+      },
+      {
+        "highkey": 16322,
+        "tonetag": "16L16H2"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "16L16H3"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "16L16H4"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16L17H1"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16L17H2"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16L17H3"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16L17H4"
+      },
+      {
+        "highkey": 17011,
+        "tonetag": "16L17L1"
+      },
+      {
+        "highkey": 17011,
+        "tonetag": "16L17L2"
+      },
+      {
+        "highkey": 17011,
+        "tonetag": "16L17L3"
+      },
+      {
+        "highkey": 17011,
+        "tonetag": "16L17L4"
+      }
+    ]
+  },
+    { "lowkey":16064,
+    "pairs": [
+      {
+        "highkey": 16322,
+        "tonetag": "16L16H5"
+      },
+      {
+        "highkey": 16365,
+        "tonetag": "16L16H6"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "16L16H7"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "16L16H8"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16L17H5"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16L17H6"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16L17H7"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16L17H8"
+      },
+      {
+        "highkey": 17054,
+        "tonetag": "16L17L5"
+      },
+      {
+        "highkey": 17054,
+        "tonetag": "16L17L6"
+      },
+      {
+        "highkey": 17054,
+        "tonetag": "16L17L7"
+      },
+      {
+        "highkey": 17054,
+        "tonetag": "16L17L8"
+      }
+    ]
+  },
+    { "lowkey":16107,
+    "pairs": [
+      {
+        "highkey": 16365,
+        "tonetag": "16L16H9"
+      },
+      {
+        "highkey": 16408,
+        "tonetag": "16L16H0"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "16L16HA"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "16L16HB"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16L17H9"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16L17H0"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16L17HA"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16L17HB"
+      },
+      {
+        "highkey": 17097,
+        "tonetag": "16L17L9"
+      },
+      {
+        "highkey": 17097,
+        "tonetag": "16L17L0"
+      },
+      {
+        "highkey": 17097,
+        "tonetag": "16L17LA"
+      },
+      {
+        "highkey": 17097,
+        "tonetag": "16L17LB"
+      }
+    ]
+  },
+    { "lowkey":16150,
+    "pairs": [
+      {
+        "highkey": 16408,
+        "tonetag": "16L16HC"
+      },
+      {
+        "highkey": 16451,
+        "tonetag": "16L16HD"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "16L16HE"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "16L16HF"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16L17HC"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16L17HD"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16L17HE"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16L17HF"
+      },
+      {
+        "highkey": 17140,
+        "tonetag": "16L17LC"
+      },
+      {
+        "highkey": 17140,
+        "tonetag": "16L17LD"
+      },
+      {
+        "highkey": 17140,
+        "tonetag": "16L17LE"
+      },
+      {
+        "highkey": 17140,
+        "tonetag": "16L17LF"
+      }
+    ]
+  },
+    { "lowkey":16193,
+    "pairs": [
+      {
+        "highkey": 16451,
+        "tonetag": "16L16HG"
+      },
+      {
+        "highkey": 16494,
+        "tonetag": "16L16HH"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "16L16HI"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "16L16HJ"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16L17HG"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16L17HH"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16L17HI"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16L17HJ"
+      },
+      {
+        "highkey": 17184,
+        "tonetag": "16L17LG"
+      },
+      {
+        "highkey": 17184,
+        "tonetag": "16L17LH"
+      },
+      {
+        "highkey": 17184,
+        "tonetag": "16L17LI"
+      },
+      {
+        "highkey": 17184,
+        "tonetag": "16L17LJ"
+      }
+    ]
+  },
+    { "lowkey":16236,
+    "pairs": [
+      {
+        "highkey": 16494,
+        "tonetag": "16L16HK"
+      },
+      {
+        "highkey": 16537,
+        "tonetag": "16L16HL"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "16L16HM"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "16L16HN"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16L17HK"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16L17HL"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16L17HM"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16L17HN"
+      },
+      {
+        "highkey": 17227,
+        "tonetag": "16L17LK"
+      },
+      {
+        "highkey": 17227,
+        "tonetag": "16L17LL"
+      },
+      {
+        "highkey": 17227,
+        "tonetag": "16L17LM"
+      },
+      {
+        "highkey": 17227,
+        "tonetag": "16L17LN"
+      }
+    ]
+  },
+    { "lowkey":16279,
+    "pairs": [
+      {
+        "highkey": 16537,
+        "tonetag": "16L16HO"
+      },
+      {
+        "highkey": 16581,
+        "tonetag": "16L16HP"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "16L16HQ"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "16L16HR"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16H17H1"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16L17HO"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16L17HP"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16L17HQ"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "16L17HR"
+      },
+      {
+        "highkey": 17011,
+        "tonetag": "16H17L1"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16L17LO"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16L17LP"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16L17LQ"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16L17LR"
+      }
+    ]
+  },
+    { "lowkey":16322,
+    "pairs": [
+      {
+        "highkey": 16581,
+        "tonetag": "16L16HS"
+      },
+      {
+        "highkey": 16624,
+        "tonetag": "16L16HT"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "16L16HU"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "16L16HV"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16H17H2"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16H17H5"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16L17HS"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16L17HT"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "16L17HU"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "16L17HV"
+      },
+      {
+        "highkey": 17011,
+        "tonetag": "16H17L2"
+      },
+      {
+        "highkey": 17054,
+        "tonetag": "16H17L5"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16L17LS"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16L17LT"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16L17LU"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16L17LV"
+      }
+    ]
+  },
+    { "lowkey":16365,
+    "pairs": [
+      {
+        "highkey": 16624,
+        "tonetag": "16L16HW"
+      },
+      {
+        "highkey": 16667,
+        "tonetag": "16L16HX"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "16L16HY"
+      },
+      {
+        "highkey": 16753,
+        "tonetag": "16L16HZ"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16H17H3"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16H17H6"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16H17H9"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16L17HW"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "16L17HX"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "16L17HY"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "16L17HZ"
+      },
+      {
+        "highkey": 17011,
+        "tonetag": "16H17L3"
+      },
+      {
+        "highkey": 17054,
+        "tonetag": "16H17L6"
+      },
+      {
+        "highkey": 17097,
+        "tonetag": "16H17L9"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16L17LW"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16L17LX"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16L17LY"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16L17LZ"
+      }
+    ]
+  },
+    { "lowkey":16408,
+    "pairs": [
+      {
+        "highkey": 16667,
+        "tonetag": "16L16H*"
+      },
+      {
+        "highkey": 16710,
+        "tonetag": "16L16H^"
+      },
+      {
+        "highkey": 16753,
+        "tonetag": "16L16H["
+      },
+      {
+        "highkey": 16796,
+        "tonetag": "16L16H]"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16H17H4"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16H17H7"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16H17H0"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16H17HC"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "16L17H*"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "16L17H^"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "16L17H["
+      },
+      {
+        "highkey": 17786,
+        "tonetag": "16L17H]"
+      },
+      {
+        "highkey": 17011,
+        "tonetag": "16H17L4"
+      },
+      {
+        "highkey": 17054,
+        "tonetag": "16H17L7"
+      },
+      {
+        "highkey": 17097,
+        "tonetag": "16H17L0"
+      },
+      {
+        "highkey": 17140,
+        "tonetag": "16H17LC"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16L17L*"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16L17L^"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16L17L["
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16L17L]"
+      }
+    ]
+  },
+    { "lowkey":16451,
+    "pairs": [
+      {
+        "highkey": 16710,
+        "tonetag": "16L16H{"
+      },
+      {
+        "highkey": 16753,
+        "tonetag": "16L16H}"
+      },
+      {
+        "highkey": 16796,
+        "tonetag": "16L16H|"
+      },
+      {
+        "highkey": 16839,
+        "tonetag": "16L16H<"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16H17H8"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16H17HA"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16H17HD"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16H17HG"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "16L17H{"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "16L17H}"
+      },
+      {
+        "highkey": 17786,
+        "tonetag": "16L17H|"
+      },
+      {
+        "highkey": 17829,
+        "tonetag": "16L17H<"
+      },
+      {
+        "highkey": 17054,
+        "tonetag": "16H17L8"
+      },
+      {
+        "highkey": 17097,
+        "tonetag": "16H17LA"
+      },
+      {
+        "highkey": 17140,
+        "tonetag": "16H17LD"
+      },
+      {
+        "highkey": 17184,
+        "tonetag": "16H17LG"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16L17L{"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16L17L}"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16L17L|"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16L17L<"
+      }
+    ]
+  },
+    { "lowkey":16494,
+    "pairs": [
+      {
+        "highkey": 16753,
+        "tonetag": "16L16H>"
+      },
+      {
+        "highkey": 16796,
+        "tonetag": "16L16H$"
+      },
+      {
+        "highkey": 16839,
+        "tonetag": "16L16H%"
+      },
+      {
+        "highkey": 16882,
+        "tonetag": "16L16H#"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16H17HB"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16H17HE"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16H17HH"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16H17HK"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "16L17H>"
+      },
+      {
+        "highkey": 17786,
+        "tonetag": "16L17H$"
+      },
+      {
+        "highkey": 17829,
+        "tonetag": "16L17H%"
+      },
+      {
+        "highkey": 17873,
+        "tonetag": "16L17H#"
+      },
+      {
+        "highkey": 17097,
+        "tonetag": "16H17LB"
+      },
+      {
+        "highkey": 17140,
+        "tonetag": "16H17LE"
+      },
+      {
+        "highkey": 17184,
+        "tonetag": "16H17LH"
+      },
+      {
+        "highkey": 17227,
+        "tonetag": "16H17LK"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16L17L>"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16L17L$"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16L17L%"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16L17L#"
+      }
+    ]
+  },
+    { "lowkey":16537,
+    "pairs": [
+      {
+        "highkey": 16796,
+        "tonetag": "16L16H@"
+      },
+      {
+        "highkey": 16839,
+        "tonetag": "16L16H!"
+      },
+      {
+        "highkey": 16882,
+        "tonetag": "16L16H("
+      },
+      {
+        "highkey": 16925,
+        "tonetag": "16L16H)"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16H17HF"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16H17HI"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16H17HL"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16H17HO"
+      },
+      {
+        "highkey": 17786,
+        "tonetag": "16L17H@"
+      },
+      {
+        "highkey": 17829,
+        "tonetag": "16L17H!"
+      },
+      {
+        "highkey": 17873,
+        "tonetag": "16L17H("
+      },
+      {
+        "highkey": 17916,
+        "tonetag": "16L17H)"
+      },
+      {
+        "highkey": 17140,
+        "tonetag": "16H17LF"
+      },
+      {
+        "highkey": 17184,
+        "tonetag": "16H17LI"
+      },
+      {
+        "highkey": 17227,
+        "tonetag": "16H17LL"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16H17LO"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16L17L@"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16L17L!"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16L17L("
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "16L17L)"
+      }
+    ]
+  },
+    { "lowkey":16581,
+    "pairs": [
+      {
+        "highkey": 16839,
+        "tonetag": "16L16H+"
+      },
+      {
+        "highkey": 16882,
+        "tonetag": "16L16H-"
+      },
+      {
+        "highkey": 16925,
+        "tonetag": "16L16H="
+      },
+      {
+        "highkey": 16968,
+        "tonetag": "16L16H&"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16H17HJ"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16H17HM"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16H17HP"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16H17HS"
+      },
+      {
+        "highkey": 17829,
+        "tonetag": "16L17H+"
+      },
+      {
+        "highkey": 17873,
+        "tonetag": "16L17H-"
+      },
+      {
+        "highkey": 17916,
+        "tonetag": "16L17H="
+      },
+      {
+        "highkey": 17959,
+        "tonetag": "16L17H&"
+      },
+      {
+        "highkey": 17184,
+        "tonetag": "16H17LJ"
+      },
+      {
+        "highkey": 17227,
+        "tonetag": "16H17LM"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16H17LP"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16H17LS"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16L17L+"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16L17L-"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16L17L="
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "16L17L&"
+      }
+    ]
+  },
+    { "lowkey":16624,
+    "pairs": [
+      {
+        "highkey": 16882,
+        "tonetag": "16L16H\\"
+      },
+      {
+        "highkey": 16925,
+        "tonetag": "16L16H/"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16H17HN"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16H17HQ"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16H17HT"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16H17HW"
+      },
+      {
+        "highkey": 17873,
+        "tonetag": "16L17H\\"
+      },
+      {
+        "highkey": 17916,
+        "tonetag": "16L17H/"
+      },
+      {
+        "highkey": 17227,
+        "tonetag": "16H17LN"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16H17LQ"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16H17LT"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16H17LW"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16L17L\\"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "16L17L/"
+      }
+    ]
+  },
+    { "lowkey":16667,
+    "pairs": [
+      {
+        "highkey": 17657,
+        "tonetag": "16H17HR"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "16H17HU"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "16H17HX"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "16H17H*"
+      },
+      {
+        "highkey": 17270,
+        "tonetag": "16H17LR"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16H17LU"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16H17LX"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16H17L*"
+      }
+    ]
+  },
+    { "lowkey":16710,
+    "pairs": [
+      {
+        "highkey": 17700,
+        "tonetag": "16H17HV"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "16H17HY"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "16H17H^"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "16H17H{"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "16H17LV"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16H17LY"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16H17L^"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16H17L{"
+      }
+    ]
+  },
+    { "lowkey":16753,
+    "pairs": [
+      {
+        "highkey": 17743,
+        "tonetag": "16H17HZ"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "16H17H["
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "16H17H}"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "16H17H>"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "16H17LZ"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "16H17L["
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "16H17L}"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "16H17L>"
+      }
+    ]
+  },
+    { "lowkey":16796,
+      "pairs": [
+        {
+          "highkey": 17786,
+          "tonetag": "16H17H]"
+        },
+        {
+          "highkey": 17786,
+          "tonetag": "16H17H|"
+        },
+        {
+          "highkey": 17786,
+          "tonetag": "16H17H$"
+        },
+        {
+          "highkey": 17786,
+          "tonetag": "16H17H@"
+        },
+        {
+          "highkey": 17399,
+          "tonetag": "16H17L]"
+        },
+        {
+          "highkey": 17442,
+          "tonetag": "16H17L|"
+        },
+        {
+          "highkey": 17485,
+          "tonetag": "16H17L$"
+        },
+        {
+          "highkey": 17528,
+          "tonetag": "16H17L@"
+        }
+      ]
+    },
+    { "lowkey":16839,
+      "pairs": [
+        {
+          "highkey": 17829,
+          "tonetag": "16H17H<"
+        },
+        {
+          "highkey": 17829,
+          "tonetag": "16H17H%"
+        },
+        {
+          "highkey": 17829,
+          "tonetag": "16H17H!"
+        },
+        {
+          "highkey": 17829,
+          "tonetag": "16H17H+"
+        },
+        {
+          "highkey": 17442,
+          "tonetag": "16H17L<"
+        },
+        {
+          "highkey": 17485,
+          "tonetag": "16H17L%"
+        },
+        {
+          "highkey": 17528,
+          "tonetag": "16H17L!"
+        },
+        {
+          "highkey": 17571,
+          "tonetag": "16H17L+"
+        }
+      ]
+    },
+    { "lowkey":16882,
+      "pairs": [
+        {
+          "highkey": 17873,
+          "tonetag": "16H17H#"
+        },
+        {
+          "highkey": 17873,
+          "tonetag": "16H17H("
+        },
+        {
+          "highkey": 17873,
+          "tonetag": "16H17H-"
+        },
+        {
+          "highkey": 17873,
+          "tonetag": "16H17H\\"
+        },
+        {
+          "highkey": 17485,
+          "tonetag": "16H17L#"
+        },
+        {
+          "highkey": 17528,
+          "tonetag": "16H17L("
+        },
+        {
+          "highkey": 17571,
+          "tonetag": "16H17L-"
+        },
+        {
+          "highkey": 17614,
+          "tonetag": "16H17L\\"
+        }
+      ]
+    },
+    { "lowkey":16925,
+      "pairs": [
+        {
+          "highkey": 17916,
+          "tonetag": "16H17H)"
+        },
+        {
+          "highkey": 17916,
+          "tonetag": "16H17H="
+        },
+        {
+          "highkey": 17916,
+          "tonetag": "16H17H/"
+        },
+        {
+          "highkey": 17528,
+          "tonetag": "16H17L)"
+        },
+        {
+          "highkey": 17571,
+          "tonetag": "16H17L="
+        },
+        {
+          "highkey": 17614,
+          "tonetag": "16H17L/"
+        }
+      ]
+    },
+    { "lowkey":16968,
+      "pairs": [
+        {
+          "highkey": 17959,
+          "tonetag": "16H17H&"
+        },
+        {
+          "highkey": 17571,
+          "tonetag": "16H17L&"
+        }
+      ]
+    },
+    { "lowkey":17011,
+    "pairs": [
+      {
+        "highkey": 17270,
+        "tonetag": "17L17H1"
+      },
+      {
+        "highkey": 17313,
+        "tonetag": "17L17H2"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "17L17H3"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "17L17H4"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17L18H1"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17L18H2"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17L18H3"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17L18H4"
+      },
+      {
+        "highkey": 18002,
+        "tonetag": "17L18L1"
+      },
+      {
+        "highkey": 18002,
+        "tonetag": "17L18L2"
+      },
+      {
+        "highkey": 18002,
+        "tonetag": "17L18L3"
+      },
+      {
+        "highkey": 18002,
+        "tonetag": "17L18L4"
+      }
+    ]
+  },
+    { "lowkey":17054,
+    "pairs": [
+      {
+        "highkey": 17313,
+        "tonetag": "17L17H5"
+      },
+      {
+        "highkey": 17356,
+        "tonetag": "17L17H6"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "17L17H7"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "17L17H8"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17L18H5"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17L18H6"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17L18H7"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17L18H8"
+      },
+      {
+        "highkey": 18045,
+        "tonetag": "17L18L5"
+      },
+      {
+        "highkey": 18045,
+        "tonetag": "17L18L6"
+      },
+      {
+        "highkey": 18045,
+        "tonetag": "17L18L7"
+      },
+      {
+        "highkey": 18045,
+        "tonetag": "17L18L8"
+      }
+    ]
+  },
+    { "lowkey":17097,
+    "pairs": [
+      {
+        "highkey": 17356,
+        "tonetag": "17L17H9"
+      },
+      {
+        "highkey": 17399,
+        "tonetag": "17L17H0"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "17L17HA"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "17L17HB"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17L18H9"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17L18H0"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17L18HA"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17L18HB"
+      },
+      {
+        "highkey": 18088,
+        "tonetag": "17L18L9"
+      },
+      {
+        "highkey": 18088,
+        "tonetag": "17L18L0"
+      },
+      {
+        "highkey": 18088,
+        "tonetag": "17L18LA"
+      },
+      {
+        "highkey": 18088,
+        "tonetag": "17L18LB"
+      }
+    ]
+  },
+    { "lowkey":17140,
+    "pairs": [
+      {
+        "highkey": 17399,
+        "tonetag": "17L17HC"
+      },
+      {
+        "highkey": 17442,
+        "tonetag": "17L17HD"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "17L17HE"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "17L17HF"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17L18HC"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17L18HD"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17L18HE"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17L18HF"
+      },
+      {
+        "highkey": 18131,
+        "tonetag": "17L18LC"
+      },
+      {
+        "highkey": 18131,
+        "tonetag": "17L18LD"
+      },
+      {
+        "highkey": 18131,
+        "tonetag": "17L18LE"
+      },
+      {
+        "highkey": 18131,
+        "tonetag": "17L18LF"
+      }
+    ]
+  },
+    { "lowkey":17184,
+    "pairs": [
+      {
+        "highkey": 17442,
+        "tonetag": "17L17HG"
+      },
+      {
+        "highkey": 17485,
+        "tonetag": "17L17HH"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "17L17HI"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "17L17HJ"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17L18HG"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17L18HH"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17L18HI"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17L18HJ"
+      },
+      {
+        "highkey": 18174,
+        "tonetag": "17L18LG"
+      },
+      {
+        "highkey": 18174,
+        "tonetag": "17L18LH"
+      },
+      {
+        "highkey": 18174,
+        "tonetag": "17L18LI"
+      },
+      {
+        "highkey": 18174,
+        "tonetag": "17L18LJ"
+      }
+    ]
+  },
+    { "lowkey":17227,
+    "pairs": [
+      {
+        "highkey": 17485,
+        "tonetag": "17L17HK"
+      },
+      {
+        "highkey": 17528,
+        "tonetag": "17L17HL"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "17L17HM"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "17L17HN"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17L18HK"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17L18HL"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17L18HM"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17L18HN"
+      },
+      {
+        "highkey": 18217,
+        "tonetag": "17L18LK"
+      },
+      {
+        "highkey": 18217,
+        "tonetag": "17L18LL"
+      },
+      {
+        "highkey": 18217,
+        "tonetag": "17L18LM"
+      },
+      {
+        "highkey": 18217,
+        "tonetag": "17L18LN"
+      }
+    ]
+  },
+    { "lowkey":17270,
+    "pairs": [
+      {
+        "highkey": 17528,
+        "tonetag": "17L17HO"
+      },
+      {
+        "highkey": 17571,
+        "tonetag": "17L17HP"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "17L17HQ"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "17L17HR"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17H18H1"
+      },
+      {
+        "highkey": 18002,
+        "tonetag": "17H18L1"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17L18HO"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17L18HP"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17L18HQ"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "17L18HR"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17L18LO"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17L18LP"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17L18LQ"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17L18LR"
+      }
+    ]
+  },
+    { "lowkey":17313,
+    "pairs": [
+      {
+        "highkey": 17571,
+        "tonetag": "17L17HS"
+      },
+      {
+        "highkey": 17614,
+        "tonetag": "17L17HT"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "17L17HU"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "17L17HV"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17H18H2"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17H18H5"
+      },
+      {
+        "highkey": 18002,
+        "tonetag": "17H18L2"
+      },
+      {
+        "highkey": 18045,
+        "tonetag": "17H18L5"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17L18HS"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17L18HT"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "17L18HU"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "17L18HV"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17L18LS"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17L18LT"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17L18LU"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17L18LV"
+      }
+    ]
+  },
+    { "lowkey":17356,
+    "pairs": [
+      {
+        "highkey": 17614,
+        "tonetag": "17L17HW"
+      },
+      {
+        "highkey": 17657,
+        "tonetag": "17L17HX"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "17L17HY"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "17L17HZ"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17H18H3"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17H18H6"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17H18H9"
+      },
+      {
+        "highkey": 18002,
+        "tonetag": "17H18L3"
+      },
+      {
+        "highkey": 18045,
+        "tonetag": "17H18L6"
+      },
+      {
+        "highkey": 18088,
+        "tonetag": "17H18L9"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17L18HW"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "17L18HX"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "17L18HY"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "17L18HZ"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17L18LW"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17L18LX"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17L18LY"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17L18LZ"
+      }
+    ]
+  },
+    { "lowkey":17399,
+    "pairs": [
+      {
+        "highkey": 17657,
+        "tonetag": "17L17H*"
+      },
+      {
+        "highkey": 17700,
+        "tonetag": "17L17H^"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "17L17H["
+      },
+      {
+        "highkey": 17786,
+        "tonetag": "17L17H]"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17H18H4"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17H18H7"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17H18H0"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17H18HC"
+      },
+      {
+        "highkey": 18002,
+        "tonetag": "17H18L4"
+      },
+      {
+        "highkey": 18045,
+        "tonetag": "17H18L7"
+      },
+      {
+        "highkey": 18088,
+        "tonetag": "17H18L0"
+      },
+      {
+        "highkey": 18131,
+        "tonetag": "17H18LC"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "17L18H*"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "17L18H^"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "17L18H["
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "17L18H]"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17L18L*"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17L18L^"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17L18L["
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17L18L]"
+      }
+    ]
+  },
+    { "lowkey":17442,
+    "pairs": [
+      {
+        "highkey": 17700,
+        "tonetag": "17L17H{"
+      },
+      {
+        "highkey": 17743,
+        "tonetag": "17L17H}"
+      },
+      {
+        "highkey": 17786,
+        "tonetag": "17L17H|"
+      },
+      {
+        "highkey": 17829,
+        "tonetag": "17L17H<"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17H18H8"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17H18HA"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17H18HD"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17H18HG"
+      },
+      {
+        "highkey": 18045,
+        "tonetag": "17H18L8"
+      },
+      {
+        "highkey": 18088,
+        "tonetag": "17H18LA"
+      },
+      {
+        "highkey": 18131,
+        "tonetag": "17H18LD"
+      },
+      {
+        "highkey": 18174,
+        "tonetag": "17H18LG"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "17L18H{"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "17L18H}"
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "17L18H|"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "17L18H<"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17L18L{"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17L18L}"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17L18L|"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17L18L<"
+      }
+    ]
+  },
+    { "lowkey":17485,
+    "pairs": [
+      {
+        "highkey": 17743,
+        "tonetag": "17L17H>"
+      },
+      {
+        "highkey": 17786,
+        "tonetag": "17L17H$"
+      },
+      {
+        "highkey": 17829,
+        "tonetag": "17L17H%"
+      },
+      {
+        "highkey": 17873,
+        "tonetag": "17L17H#"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17H18HB"
+      }
+      ,
+      {
+        "highkey": 18475,
+        "tonetag": "17H18HE"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17H18HH"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17H18HK"
+      },
+      {
+        "highkey": 18088,
+        "tonetag": "17H18LB"
+      },
+      {
+        "highkey": 18131,
+        "tonetag": "17H18LE"
+      },
+      {
+        "highkey": 18174,
+        "tonetag": "17H18LH"
+      },
+      {
+        "highkey": 18217,
+        "tonetag": "17H18LK"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "17L18H>"
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "17L18H$"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "17L18H%"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "17L18H#"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17L18L>"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17L18L$"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17L18L%"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17L18L#"
+      }
+    ]
+  },
+    { "lowkey":17528,
+    "pairs": [
+      {
+        "highkey": 17786,
+        "tonetag": "17L17H@"
+      },
+      {
+        "highkey": 17829,
+        "tonetag": "17L17H!"
+      },
+      {
+        "highkey": 17873,
+        "tonetag": "17L17H("
+      },
+      {
+        "highkey": 17916,
+        "tonetag": "17L17H)"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17H18HF"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17H18HI"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17H18HL"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17H18HO"
+      },
+      {
+        "highkey": 18131,
+        "tonetag": "17H18LF"
+      },
+      {
+        "highkey": 18174,
+        "tonetag": "17H18LI"
+      },
+      {
+        "highkey": 18217,
+        "tonetag": "17H18LL"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17H18LO"
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "17L18H@"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "17L18H!"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "17L18H("
+      },
+      {
+        "highkey": 18906,
+        "tonetag": "17L18H)"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17L18L@"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17L18L!"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17L18L("
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17L18L)"
+      }
+    ]
+  },
+    { "lowkey":17571,
+    "pairs": [
+      {
+        "highkey": 17829,
+        "tonetag": "17L17H+"
+      },
+      {
+        "highkey": 17873,
+        "tonetag": "17L17H-"
+      },
+      {
+        "highkey": 17916,
+        "tonetag": "17L17H="
+      },
+      {
+        "highkey": 17959,
+        "tonetag": "17L17H&"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17H18HJ"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17H18HM"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17H18HP"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17H18HS"
+      },
+      {
+        "highkey": 18174,
+        "tonetag": "17H18LJ"
+      },
+      {
+        "highkey": 18217,
+        "tonetag": "17H18LM"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17H18LP"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17H18LS"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "17L18H+"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "17L18H-"
+      },
+      {
+        "highkey": 18906,
+        "tonetag": "17L18H="
+      },
+      {
+        "highkey": 18949,
+        "tonetag": "17L18H&"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17L18L+"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17L18L-"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17L18L="
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17L18L&"
+      }
+    ]
+  },
+    { "lowkey":17614,
+    "pairs": [
+      {
+        "highkey": 17873,
+        "tonetag": "17L17H\\"
+      },
+      {
+        "highkey": 17916,
+        "tonetag": "17L17H/"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17H18HN"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17H18HQ"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17H18HT"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17H18HW"
+      },
+      {
+        "highkey": 18217,
+        "tonetag": "17H18LN"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17H18LQ"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17H18LT"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17H18LW"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "17L18H\\"
+      },
+      {
+        "highkey": 18906,
+        "tonetag": "17L18H/"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17L18L\\"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17L18L/"
+      }
+    ]
+  },
+    { "lowkey":17657,
+    "pairs": [
+      {
+        "highkey": 18648,
+        "tonetag": "17H18HR"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "17H18HU"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "17H18HX"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "17H18H*"
+      },
+      {
+        "highkey": 18260,
+        "tonetag": "17H18LR"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17H18LU"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17H18LX"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17H18L*"
+      }
+    ]
+  },
+    { "lowkey":17700,
+    "pairs": [
+      {
+        "highkey": 18691,
+        "tonetag": "17H18HV"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "17H18HY"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "17H18H^"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "17H18H{"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "17H18LV"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17H18LY"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17H18L^"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17H18L{"
+      }
+    ]
+  },
+    { "lowkey":17743,
+    "pairs": [
+      {
+        "highkey": 18734,
+        "tonetag": "17H18HZ"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "17H18H["
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "17H18H}"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "17H18H>"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "17H18LZ"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17H18L["
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17H18L}"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17H18L>"
+      }
+    ]
+  },
+    { "lowkey":17786,
+    "pairs": [
+      {
+        "highkey": 18777,
+        "tonetag": "17H18H]"
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "17H18H|"
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "17H18H$"
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "17H18H@"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "17H18L]"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17H18L|"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17H18L$"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17H18L@"
+      }
+    ]
+  },
+    { "lowkey":17829,
+    "pairs": [
+      {
+        "highkey": 18820,
+        "tonetag": "17H18H<"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "17H18H%"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "17H18H!"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "17H18H+"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "17H18L<"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17H18L%"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17H18L!"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17H18L+"
+      }
+    ]
+  },
+    { "lowkey":17873,
+    "pairs": [
+      {
+        "highkey": 18863,
+        "tonetag": "17H18H#"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "17H18H("
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "17H18H-"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "17H18H\\"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "17H18L#"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "17H18L("
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17H18L-"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17H18L\\"
+      }
+    ]
+  },
+    { "lowkey":17916,
+    "pairs": [
+      {
+        "highkey": 18906,
+        "tonetag": "17H18H)"
+      },
+      {
+        "highkey": 18906,
+        "tonetag": "17H18H="
+      },
+      {
+        "highkey": 18906,
+        "tonetag": "17H18H/"
+      }
+      ,
+      {
+        "highkey": 18519,
+        "tonetag": "17H18L)"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17H18L="
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "17H18L/"
+      }
+    ]
+  },
+    { "lowkey":17959,
+    "pairs": [
+      {
+        "highkey": 18949,
+        "tonetag": "17H18H&"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "17H18L&"
+      }
+    ]
+  },
+    { "lowkey":18002,
+    "pairs": [
+      {
+        "highkey": 18260,
+        "tonetag": "18L18H1"
+      },
+      {
+        "highkey": 18303,
+        "tonetag": "18L18H2"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "18L18H3"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "18L18H4"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18L19H1"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18L19H2"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18L19H3"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18L19H4"
+      },
+      {
+        "highkey": 19035,
+        "tonetag": "18L19L1"
+      },
+      {
+        "highkey": 19035,
+        "tonetag": "18L19L2"
+      },
+      {
+        "highkey": 19035,
+        "tonetag": "18L19L3"
+      },
+      {
+        "highkey": 19035,
+        "tonetag": "18L19L4"
+      }
+    ]
+  },
+    { "lowkey":18045,
+    "pairs": [
+      {
+        "highkey": 18303,
+        "tonetag": "18L18H5"
+      },
+      {
+        "highkey": 18346,
+        "tonetag": "18L18H6"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "18L18H7"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "18L18H8"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18L19H5"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18L19H6"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18L19H7"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18L19H8"
+      },
+      {
+        "highkey": 19078,
+        "tonetag": "18L19L5"
+      },
+      {
+        "highkey": 19078,
+        "tonetag": "18L19L6"
+      },
+      {
+        "highkey": 19078,
+        "tonetag": "18L19L7"
+      },
+      {
+        "highkey": 19078,
+        "tonetag": "18L19L8"
+      }
+    ]
+  },
+    { "lowkey":18088,
+    "pairs": [
+      {
+        "highkey": 18346,
+        "tonetag": "18L18H9"
+      },
+      {
+        "highkey": 18389,
+        "tonetag": "18L18H0"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "18L18HA"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "18L18HB"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18L19H9"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18L19H0"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18L19HA"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18L19HB"
+      },
+      {
+        "highkey": 19121,
+        "tonetag": "18L19L9"
+      },
+      {
+        "highkey": 19121,
+        "tonetag": "18L19L0"
+      },
+      {
+        "highkey": 19121,
+        "tonetag": "18L19LA"
+      },
+      {
+        "highkey": 19121,
+        "tonetag": "18L19LB"
+      }
+    ]
+  },
+    { "lowkey":18131,
+    "pairs": [
+      {
+        "highkey": 18389,
+        "tonetag": "18L18HC"
+      },
+      {
+        "highkey": 18432,
+        "tonetag": "18L18HD"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "18L18HE"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "18L18HF"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18L19HC"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18L19HD"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18L19HE"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18L19HF"
+      },
+      {
+        "highkey": 19165,
+        "tonetag": "18L19LC"
+      },
+      {
+        "highkey": 19165,
+        "tonetag": "18L19LD"
+      },
+      {
+        "highkey": 19165,
+        "tonetag": "18L19LE"
+      },
+      {
+        "highkey": 19165,
+        "tonetag": "18L19LF"
+      }
+    ]
+  },
+    { "lowkey":18174,
+    "pairs": [
+      {
+        "highkey": 18432,
+        "tonetag": "18L18HG"
+      },
+      {
+        "highkey": 18475,
+        "tonetag": "18L18HH"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "18L18HI"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "18L18HJ"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18L19HG"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18L19HH"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18L19HI"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18L19HJ"
+      },
+      {
+        "highkey": 19208,
+        "tonetag": "18L19LG"
+      },
+      {
+        "highkey": 19208,
+        "tonetag": "18L19LH"
+      },
+      {
+        "highkey": 19208,
+        "tonetag": "18L19LI"
+      },
+      {
+        "highkey": 19208,
+        "tonetag": "18L19LJ"
+      }
+    ]
+  },
+    { "lowkey":18217,
+    "pairs": [
+      {
+        "highkey": 18475,
+        "tonetag": "18L18HK"
+      },
+      {
+        "highkey": 18519,
+        "tonetag": "18L18HL"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "18L18HM"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "18L18HN"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18L19HK"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18L19HL"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18L19HM"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18L19HN"
+      },
+      {
+        "highkey": 19251,
+        "tonetag": "18L19LK"
+      },
+      {
+        "highkey": 19251,
+        "tonetag": "18L19LL"
+      },
+      {
+        "highkey": 19251,
+        "tonetag": "18L19LM"
+      },
+      {
+        "highkey": 19251,
+        "tonetag": "18L19LN"
+      }
+    ]
+  },
+    { "lowkey":18260,
+    "pairs": [
+      {
+        "highkey": 18519,
+        "tonetag": "18L18HO"
+      },
+      {
+        "highkey": 18562,
+        "tonetag": "18L18HP"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "18L18HQ"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "18L18HR"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18H19H1"
+      },
+      {
+        "highkey": 19035,
+        "tonetag": "18H19L1"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18L19HO"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18L19HP"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18L19HQ"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "18L19HR"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18L19LO"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18L19LP"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18L19LQ"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18L19LR"
+      }
+    ]
+  },
+    { "lowkey":18303,
+    "pairs": [
+      {
+        "highkey": 18562,
+        "tonetag": "18L18HS"
+      },
+      {
+        "highkey": 18605,
+        "tonetag": "18L18HT"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "18L18HU"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "18L18HV"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18H19H2"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18H19H5"
+      },
+      {
+        "highkey": 19035,
+        "tonetag": "18H19L2"
+      },
+      {
+        "highkey": 19078,
+        "tonetag": "18H19L5"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18L19HS"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18L19HT"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "18L19HU"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "18L19HV"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18L19LS"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18L19LT"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18L19LU"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18L19LV"
+      }
+    ]
+  },
+    { "lowkey":18346,
+    "pairs": [
+      {
+        "highkey": 18605,
+        "tonetag": "18L18HW"
+      },
+      {
+        "highkey": 18648,
+        "tonetag": "18L18HX"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "18L18HY"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "18L18HZ"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18H19H3"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18H19H6"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18H19H9"
+      },
+      {
+        "highkey": 19035,
+        "tonetag": "18H19L3"
+      },
+      {
+        "highkey": 19078,
+        "tonetag": "18H19L6"
+      },
+      {
+        "highkey": 19121,
+        "tonetag": "18H19L9"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18L19HW"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "18L19HX"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "18L19HY"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "18L19HZ"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18L19LW"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18L19LX"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18L19LY"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18L19LZ"
+      }
+    ]
+  },
+    { "lowkey":18389,
+    "pairs": [
+      {
+        "highkey": 18648,
+        "tonetag": "18L18H*"
+      },
+      {
+        "highkey": 18691,
+        "tonetag": "18L18H^"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "18L18H["
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "18L18H]"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18H19H4"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18H19H7"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18H19H0"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18H19HC"
+      },
+      {
+        "highkey": 19035,
+        "tonetag": "18H19L4"
+      },
+      {
+        "highkey": 19078,
+        "tonetag": "18H19L7"
+      },
+      {
+        "highkey": 19121,
+        "tonetag": "18H19L0"
+      },
+      {
+        "highkey": 19165,
+        "tonetag": "18H19LC"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "18L19H*"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "18L19H^"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "18L19H["
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "18L19H]"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18L19L*"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18L19L^"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18L19L["
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18L19L]"
+      }
+    ]
+  },
+    { "lowkey":18432,
+    "pairs": [
+      {
+        "highkey": 18691,
+        "tonetag": "18L18H{"
+      },
+      {
+        "highkey": 18734,
+        "tonetag": "18L18H}"
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "18L18H|"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "18L18H<"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18H19H8"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18H19HA"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18H19HD"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18H19HG"
+      },
+      {
+        "highkey": 19078,
+        "tonetag": "18H19L8"
+      },
+      {
+        "highkey": 19121,
+        "tonetag": "18H19LA"
+      },
+      {
+        "highkey": 19165,
+        "tonetag": "18H19LD"
+      },
+      {
+        "highkey": 19208,
+        "tonetag": "18H19LG"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "18L19H{"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "18L19H}"
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "18L19H|"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "18L19H<"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18L19L{"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18L19L}"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18L19L|"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18L19L<"
+      }
+    ]
+  },
+    { "lowkey":18475,
+    "pairs": [
+      {
+        "highkey": 18734,
+        "tonetag": "18L18H>"
+      },
+      {
+        "highkey": 18777,
+        "tonetag": "18L18H$"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "18L18H%"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "18L18H#"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18H19HB"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18H19HE"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18H19HH"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18H19HK"
+      },
+      {
+        "highkey": 19121,
+        "tonetag": "18H19LB"
+      },
+      {
+        "highkey": 19165,
+        "tonetag": "18H19LE"
+      },
+      {
+        "highkey": 19208,
+        "tonetag": "18H19LH"
+      },
+      {
+        "highkey": 19251,
+        "tonetag": "18H19LK"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "18L19H>"
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "18L19H$"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "18L19H%"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "18L19H#"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18L19L>"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18L19L$"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18L19L%"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18L19L#"
+      }
+    ]
+  },
+    { "lowkey":18519,
+    "pairs": [
+      {
+        "highkey": 18777,
+        "tonetag": "18L18H@"
+      },
+      {
+        "highkey": 18820,
+        "tonetag": "18L18H!"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "18L18H("
+      },
+      {
+        "highkey": 18906,
+        "tonetag": "18L18H)"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18H19HF"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18H19HL"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18H19HO"
+      },
+      {
+        "highkey": 19165,
+        "tonetag": "18H19LF"
+      },
+      {
+        "highkey": 19208,
+        "tonetag": "18H19LI"
+      },
+      {
+        "highkey": 19251,
+        "tonetag": "18H19LL"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18H19LO"
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "18L19H@"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "18L19H!"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "18L19H("
+      },
+      {
+        "highkey": 19940,
+        "tonetag": "18L19H)"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18L19L@"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18L19L!"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18L19L("
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18L19L)"
+      }
+    ]
+  },
+    { "lowkey":18562,
+    "pairs": [
+      {
+        "highkey": 18820,
+        "tonetag": "18L18H+"
+      },
+      {
+        "highkey": 18863,
+        "tonetag": "18L18H-"
+      },
+      {
+        "highkey": 18906,
+        "tonetag": "18L18H="
+      },
+      {
+        "highkey": 18949,
+        "tonetag": "18L18H&"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18H19HJ"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18H19HM"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18H19HP"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18H19HS"
+      },
+      {
+        "highkey": 19208,
+        "tonetag": "18H19LJ"
+      },
+      {
+        "highkey": 19251,
+        "tonetag": "18H19LM"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18H19LP"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18H19LS"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "18L19H+"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "18L19H-"
+      },
+      {
+        "highkey": 19940,
+        "tonetag": "18L19H="
+      },
+      {
+        "highkey": 19983,
+        "tonetag": "18L19H&"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18L19L+"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18L19L-"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18L19L="
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18L19L&"
+      }
+    ]
+  },
+    { "lowkey":18605,
+    "pairs": [
+      {
+        "highkey": 18863,
+        "tonetag": "18L18H\\"
+      },
+      {
+        "highkey": 18906,
+        "tonetag": "18L18H/"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18H19HN"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18H19HQ"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18H19HT"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18H19HW"
+      },
+      {
+        "highkey": 19251,
+        "tonetag": "18H19LN"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18H19LQ"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18H19LT"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18H19LW"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "18L19H\\"
+      },
+      {
+        "highkey": 19940,
+        "tonetag": "18L19H/"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18L19L\\"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18L19L/"
+      }
+    ]
+  },
+    { "lowkey":18648,
+    "pairs": [
+      {
+        "highkey": 19681,
+        "tonetag": "18H19HR"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "18H19HU"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "18H19HX"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "18H19H*"
+      },
+      {
+        "highkey": 19294,
+        "tonetag": "18H19LR"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18H19LU"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18H19LX"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18H19L*"
+      }
+    ]
+  },
+    { "lowkey":18691,
+    "pairs": [
+      {
+        "highkey": 19724,
+        "tonetag": "18H19HV"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "18H19HY"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "18H19H^"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "18H19H{"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "18H19LV"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18H19LY"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18H19L^"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18H19L{"
+      }
+    ]
+  },
+    { "lowkey":18734,
+    "pairs": [
+      {
+        "highkey": 19767,
+        "tonetag": "18H19HZ"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "18H19H["
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "18H19H}"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "18H19H>"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "18H19LZ"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18H19L["
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18H19L}"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18H19L>"
+      }
+    ]
+  },
+    { "lowkey":18777,
+    "pairs": [
+      {
+        "highkey": 19811,
+        "tonetag": "18H19H]"
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "18H19H|"
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "18H19H$"
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "18H19H@"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "18H19L]"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18H19L|"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18H19L$"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18H19L@"
+      }
+    ]
+  },
+    { "lowkey":18820,
+    "pairs": [
+      {
+        "highkey": 19854,
+        "tonetag": "18H19H<"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "18H19H%"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "18H19H!"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "18H19H+"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "18H19L<"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18H19L%"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18H19L!"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18H19L+"
+      }
+    ]
+  },
+    { "lowkey":18863,
+    "pairs": [
+      {
+        "highkey": 19897,
+        "tonetag": "18H19H#"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "18H19H("
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "18H19H-"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "18H19H\\"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "18H19L#"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18H19L("
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18H19L-"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18H19L\\"
+      }
+    ]
+  },
+    { "lowkey":18906,
+    "pairs": [
+      {
+        "highkey": 19940,
+        "tonetag": "18H19H)"
+      },
+      {
+        "highkey": 19940,
+        "tonetag": "18H19H="
+      },
+      {
+        "highkey": 19940,
+        "tonetag": "18H19H/"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "18H19L)"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18H19L="
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "18H19L/"
+      }
+    ]
+  },
+    { "lowkey":18949,
+    "pairs": [
+      {
+        "highkey": 19983,
+        "tonetag": "18H19H&"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "18H19L&"
+      }
+    ]
+  },
+    { "lowkey":19035,
+    "pairs": [
+      {
+        "highkey": 19294,
+        "tonetag": "19L19H1"
+      },
+      {
+        "highkey": 19337,
+        "tonetag": "19L19H2"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "19L19H3"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "19L19H4"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19L20H1"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19L20H2"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19L20H3"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19L20H4"
+      },
+      {
+        "highkey": 20026,
+        "tonetag": "19L20L1"
+      },
+      {
+        "highkey": 20026,
+        "tonetag": "19L20L2"
+      },
+      {
+        "highkey": 20026,
+        "tonetag": "19L20L3"
+      },
+      {
+        "highkey": 20026,
+        "tonetag": "19L20L4"
+      }
+    ]
+  },
+    { "lowkey":19078,
+    "pairs": [
+      {
+        "highkey": 19337,
+        "tonetag": "19L19H5"
+      },
+      {
+        "highkey": 19380,
+        "tonetag": "19L19H6"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "19L19H7"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "19L19H8"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19L20H5"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19L20H6"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19L20H7"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19L20H8"
+      },
+      {
+        "highkey": 20069,
+        "tonetag": "19L20L5"
+      },
+      {
+        "highkey": 20069,
+        "tonetag": "19L20L6"
+      },
+      {
+        "highkey": 20069,
+        "tonetag": "19L20L7"
+      },
+      {
+        "highkey": 20069,
+        "tonetag": "19L20L8"
+      }
+    ]
+  },
+    { "lowkey":19121,
+    "pairs": [
+      {
+        "highkey": 19380,
+        "tonetag": "19L19H9"
+      },
+      {
+        "highkey": 19423,
+        "tonetag": "19L19H0"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "19L19HA"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "19L19HB"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19L20H9"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19L20H0"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19L20HA"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19L20HB"
+      },
+      {
+        "highkey": 20112,
+        "tonetag": "19L20L9"
+      },
+      {
+        "highkey": 20112,
+        "tonetag": "19L20L0"
+      },
+      {
+        "highkey": 20112,
+        "tonetag": "19L20LA"
+      },
+      {
+        "highkey": 20112,
+        "tonetag": "19L20LB"
+      }
+    ]
+  },
+    { "lowkey":19165,
+    "pairs": [
+      {
+        "highkey": 19423,
+        "tonetag": "19L19HC"
+      },
+      {
+        "highkey": 19466,
+        "tonetag": "19L19HD"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "19L19HE"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "19L19HF"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19L20HC"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19L20HD"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19L20HE"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19L20HF"
+      },
+      {
+        "highkey": 20155,
+        "tonetag": "19L20LC"
+      },
+      {
+        "highkey": 20155,
+        "tonetag": "19L20LD"
+      },
+      {
+        "highkey": 20155,
+        "tonetag": "19L20LE"
+      },
+      {
+        "highkey": 20155,
+        "tonetag": "19L20LF"
+      }
+    ]
+  },
+    { "lowkey":19208,
+    "pairs": [
+      {
+        "highkey": 19466,
+        "tonetag": "19L19HG"
+      },
+      {
+        "highkey": 19509,
+        "tonetag": "19L19HH"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "19L19HI"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "19L19HJ"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19L20HG"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19L20HH"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19L20HI"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19L20HJ"
+      },
+      {
+        "highkey": 20198,
+        "tonetag": "19L20LG"
+      },
+      {
+        "highkey": 20198,
+        "tonetag": "19L20LH"
+      },
+      {
+        "highkey": 20198,
+        "tonetag": "19L20LI"
+      },
+      {
+        "highkey": 20198,
+        "tonetag": "19L20LJ"
+      }
+    ]
+  },
+    { "lowkey":19251,
+    "pairs": [
+      {
+        "highkey": 19509,
+        "tonetag": "19L19HK"
+      },
+      {
+        "highkey": 19552,
+        "tonetag": "19L19HL"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "19L19HM"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "19L19HN"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19L20HK"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19L20HL"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19L20HM"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19L20HN"
+      },
+      {
+        "highkey": 20241,
+        "tonetag": "19L20LK"
+      },
+      {
+        "highkey": 20241,
+        "tonetag": "19L20LL"
+      },
+      {
+        "highkey": 20241,
+        "tonetag": "19L20LM"
+      },
+      {
+        "highkey": 20241,
+        "tonetag": "19L20LN"
+      }
+    ]
+  },
+    { "lowkey":19294,
+    "pairs": [
+      {
+        "highkey": 19552,
+        "tonetag": "19L19HO"
+      },
+      {
+        "highkey": 19595,
+        "tonetag": "19L19HP"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "19L19HQ"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "19L19HR"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19H20H1"
+      },
+      {
+        "highkey": 20026,
+        "tonetag": "19H20L1"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19L20HO"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19L20HP"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19L20HQ"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "19L20HR"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19L20LO"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19L20LP"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19L20LQ"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19L20LR"
+      }
+    ]
+  },
+    { "lowkey":19337,
+    "pairs": [
+      {
+        "highkey": 19595,
+        "tonetag": "19L19HS"
+      },
+      {
+        "highkey": 19638,
+        "tonetag": "19L19HT"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "19L19HU"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "19L19HV"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19H20H2"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19H20H5"
+      },
+      {
+        "highkey": 20026,
+        "tonetag": "19H20L2"
+      },
+      {
+        "highkey": 20069,
+        "tonetag": "19H20L5"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19L20HS"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19L20HT"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "19L20HU"
+      },
+      {
+        "highkey": 20715,
+        "tonetag": "19L20HV"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19L20LS"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19L20LT"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19L20LU"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19L20LV"
+      }
+    ]
+  },
+    { "lowkey":19380,
+    "pairs": [
+      {
+        "highkey": 19638,
+        "tonetag": "19L19HW"
+      },
+      {
+        "highkey": 19681,
+        "tonetag": "19L19HX"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "19L19HY"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "19L19HZ"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19H20H3"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19H20H6"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19H20H9"
+      },
+      {
+        "highkey": 20026,
+        "tonetag": "19H20L3"
+      },
+      {
+        "highkey": 20069,
+        "tonetag": "19H20L6"
+      },
+      {
+        "highkey": 20112,
+        "tonetag": "19H20L9"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19L20HW"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "19L20HX"
+      },
+      {
+        "highkey": 20715,
+        "tonetag": "19L20HY"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "19L20HZ"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19L20LW"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19L20LX"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19L20LY"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19L20LZ"
+      }
+    ]
+  },
+    { "lowkey":19423,
+    "pairs": [
+      {
+        "highkey": 19681,
+        "tonetag": "19L19H*"
+      },
+      {
+        "highkey": 19724,
+        "tonetag": "19L19H^"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "19L19H["
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "19L19H]"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19H20H4"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19H20H7"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19H20H0"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19H20HC"
+      },
+      {
+        "highkey": 20026,
+        "tonetag": "19H20L4"
+      },
+      {
+        "highkey": 20069,
+        "tonetag": "19H20L7"
+      },
+      {
+        "highkey": 20112,
+        "tonetag": "19H20L0"
+      },
+      {
+        "highkey": 20155,
+        "tonetag": "19H20LC"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "19L20H*"
+      },
+      {
+        "highkey": 20715,
+        "tonetag": "19L20H^"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "19L20H["
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "19L20H]"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19L20L*"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19L20L^"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19L20L["
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19L20L]"
+      }
+    ]
+  },
+    { "lowkey":19466,
+    "pairs": [
+      {
+        "highkey": 19724,
+        "tonetag": "19L19H{"
+      },
+      {
+        "highkey": 19767,
+        "tonetag": "19L19H}"
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "19L19H|"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "19L19H<"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19H20H8"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19H20HA"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19H20HD"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19H20HG"
+      },
+      {
+        "highkey": 20069,
+        "tonetag": "19H20L8"
+      },
+      {
+        "highkey": 20112,
+        "tonetag": "19H20LA"
+      },
+      {
+        "highkey": 20155,
+        "tonetag": "19H20LD"
+      },
+      {
+        "highkey": 20198,
+        "tonetag": "19H20LG"
+      },
+      {
+        "highkey": 20715,
+        "tonetag": "19L20H{"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "19L20H}"
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "19L20H|"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "19L20H<"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19L20L{"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19L20L}"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19L20L|"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19L20L<"
+      }
+    ]
+  },
+    { "lowkey":19509,
+    "pairs": [
+      {
+        "highkey": 19767,
+        "tonetag": "19L19H>"
+      },
+      {
+        "highkey": 19811,
+        "tonetag": "19L19H$"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "19L19H%"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "19L19H#"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19H20HB"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19H20HE"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19H20HH"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19H20HK"
+      },
+      {
+        "highkey": 20112,
+        "tonetag": "19H20LB"
+      },
+      {
+        "highkey": 20155,
+        "tonetag": "19H20LE"
+      },
+      {
+        "highkey": 20198,
+        "tonetag": "19H20LH"
+      },
+      {
+        "highkey": 20241,
+        "tonetag": "19H20LK"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "19L20H>"
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "19L20H$"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "19L20H%"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "19L20H#"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19L20L>"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19L20L$"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19L20L%"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19L20L#"
+      }
+    ]
+  },
+    { "lowkey":19552,
+    "pairs": [
+      {
+        "highkey": 19811,
+        "tonetag": "19L19H@"
+      },
+      {
+        "highkey": 19854,
+        "tonetag": "19L19H!"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "19L19H("
+      },
+      {
+        "highkey": 19940,
+        "tonetag": "19L19H)"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19H20HF"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19H20HI"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19H20HL"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19H20HO"
+      },
+      {
+        "highkey": 20155,
+        "tonetag": "19H20LF"
+      },
+      {
+        "highkey": 20198,
+        "tonetag": "19H20LI"
+      },
+      {
+        "highkey": 20241,
+        "tonetag": "19H20LL"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19H20LO"
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "19L20H@"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "19L20H!"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "19L20H("
+      },
+      {
+        "highkey": 20930,
+        "tonetag": "19L20H)"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19L20L@"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19L20L!"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19L20L("
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19L20L)"
+      }
+    ]
+  },
+    { "lowkey":19595,
+    "pairs": [
+      {
+        "highkey": 19854,
+        "tonetag": "19L19H+"
+      },
+      {
+        "highkey": 19897,
+        "tonetag": "19L19H-"
+      },
+      {
+        "highkey": 19940,
+        "tonetag": "19L19H="
+      },
+      {
+        "highkey": 19983,
+        "tonetag": "19L19H&"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19H20HJ"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19H20HM"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19H20HP"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19H20HS"
+      },
+      {
+        "highkey": 20198,
+        "tonetag": "19H20LJ"
+      },
+      {
+        "highkey": 20241,
+        "tonetag": "19H20LM"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19H20LP"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19H20LS"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "19L20H+"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "19L20H-"
+      },
+      {
+        "highkey": 20930,
+        "tonetag": "19L20H="
+      },
+      {
+        "highkey": 20973,
+        "tonetag": "19L20H&"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19L20L+"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19L20L-"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19L20L="
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19L20L&"
+      }
+    ]
+  },
+    { "lowkey":19638,
+    "pairs": [
+      {
+        "highkey": 19897,
+        "tonetag": "19L19H\\"
+      },
+      {
+        "highkey": 19940,
+        "tonetag": "19L19H/"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19H20HN"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19H20HQ"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19H20HT"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19H20HW"
+      },
+      {
+        "highkey": 20241,
+        "tonetag": "19H20LN"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19H20LQ"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19H20LT"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19H20LW"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "19L20H\\"
+      },
+      {
+        "highkey": 20930,
+        "tonetag": "19L20H/"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19L20L\\"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19L20L/"
+      }
+    ]
+  },
+    { "lowkey":19681,
+    "pairs": [
+      {
+        "highkey": 20672,
+        "tonetag": "19H20HR"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "19H20HU"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "19H20HX"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "19H20H*"
+      },
+      {
+        "highkey": 20284,
+        "tonetag": "19H20LR"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "19H20LU"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19H20LX"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19H20L*"
+      }
+    ]
+  },
+    { "lowkey":19724,
+      "pairs": [
+        {
+          "highkey": 20715,
+          "tonetag": "19H20HV"
+        },
+        {
+          "highkey": 20715,
+          "tonetag": "19H20HY"
+        },
+        {
+          "highkey": 20715,
+          "tonetag": "19H20H^"
+        },
+        {
+          "highkey": 20715,
+          "tonetag": "19H20H{"
+        },
+        {
+          "highkey": 20327,
+          "tonetag": "19H20LV"
+        },
+        {
+          "highkey": 20370,
+          "tonetag": "19H20LY"
+        },
+        {
+          "highkey": 20413,
+          "tonetag": "19H20L^"
+        },
+        {
+          "highkey": 20457,
+          "tonetag": "19H20L{"
+        }
+      ]
+    },
+    { "lowkey":19767,
+    "pairs": [
+      {
+        "highkey": 20758,
+        "tonetag": "19H20HZ"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "19H20H["
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "19H20H}"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "19H20H>"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "19H20LZ"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19H20L["
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19H20L}"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19H20L>"
+      }
+    ]
+  },
+    { "lowkey":19811,
+    "pairs": [
+      {
+        "highkey": 20801,
+        "tonetag": "19H20H]"
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "19H20H|"
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "19H20H$"
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "19H20H@"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "19H20L]"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19H20L|"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19H20L$"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19H20L@"
+      }
+    ]
+  },
+    { "lowkey":19854,
+    "pairs": [
+      {
+        "highkey": 20844,
+        "tonetag": "19H20H<"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "19H20H%"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "19H20H!"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "19H20H+"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "19H20L<"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19H20L%"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19H20L!"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19H20L+"
+      }
+    ]
+  },
+    { "lowkey":19897,
+    "pairs": [
+      {
+        "highkey": 20887,
+        "tonetag": "19H20H#"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "19H20H("
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "19H20H-"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "19H20H\\"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "19H20L#"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19H20L("
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19H20L-"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19H20L\\"
+      }
+    ]
+  },
+    { "lowkey":19940,
+    "pairs": [
+      {
+        "highkey": 20930,
+        "tonetag": "19H20H)"
+      },
+      {
+        "highkey": 20930,
+        "tonetag": "19H20H="
+      },
+      {
+        "highkey": 20930,
+        "tonetag": "19H20H/"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "19H20L)"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19H20L="
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "19H20L/"
+      }
+    ]
+  },
+    { "lowkey":19983,
+    "pairs": [
+      {
+        "highkey": 20973,
+        "tonetag": "19H20H&"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "19H20L&"
+      }
+    ]
+  },
+    { "lowkey":20026,
+    "pairs": [
+      {
+        "highkey": 20284,
+        "tonetag": "20L20H1"
+      },
+      {
+        "highkey": 20327,
+        "tonetag": "20L20H2"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "20L20H3"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "20L20H4"
+      }
+    ]
+  },
+    { "lowkey":20069,
+    "pairs": [
+      {
+        "highkey": 20327,
+        "tonetag": "20L20H5"
+      },
+      {
+        "highkey": 20370,
+        "tonetag": "20L20H6"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "20L20H7"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "20L20H8"
+      }
+    ]
+  },
+    { "lowkey":20112,
+    "pairs": [
+      {
+        "highkey": 20370,
+        "tonetag": "20L20H9"
+      },
+      {
+        "highkey": 20413,
+        "tonetag": "20L20H0"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "20L20HA"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "20L20HB"
+      }
+    ]
+  },
+    { "lowkey":20155,
+    "pairs": [
+      {
+        "highkey": 20413,
+        "tonetag": "20L20HC"
+      },
+      {
+        "highkey": 20457,
+        "tonetag": "20L20HD"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "20L20HE"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "20L20HF"
+      }
+    ]
+  },
+    { "lowkey":20198,
+    "pairs": [
+      {
+        "highkey": 20457,
+        "tonetag": "20L20HG"
+      },
+      {
+        "highkey": 20500,
+        "tonetag": "20L20HH"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "20L20HI"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "20L20HJ"
+      }
+    ]
+  },
+    { "lowkey":20241,
+    "pairs": [
+      {
+        "highkey": 20500,
+        "tonetag": "20L20HK"
+      },
+      {
+        "highkey": 20543,
+        "tonetag": "20L20HL"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "20L20HM"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "20L20HN"
+      }
+    ]
+  },
+    { "lowkey":20284,
+    "pairs": [
+      {
+        "highkey": 20543,
+        "tonetag": "20L20HO"
+      },
+      {
+        "highkey": 20586,
+        "tonetag": "20L20HP"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "20L20HQ"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "20L20HR"
+      }
+    ]
+  },
+    { "lowkey":20327,
+    "pairs": [
+      {
+        "highkey": 20586,
+        "tonetag": "20L20HS"
+      },
+      {
+        "highkey": 20629,
+        "tonetag": "20L20HT"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "20L20HU"
+      },
+      {
+        "highkey": 20715,
+        "tonetag": "20L20HV"
+      }
+    ]
+  },
+    { "lowkey":20370,
+    "pairs": [
+      {
+        "highkey": 20629,
+        "tonetag": "20L20HW"
+      },
+      {
+        "highkey": 20672,
+        "tonetag": "20L20HX"
+      },
+      {
+        "highkey": 20715,
+        "tonetag": "20L20HY"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "20L20HZ"
+      }
+    ]
+  },
+    { "lowkey":20413,
+    "pairs": [
+      {
+        "highkey": 20672,
+        "tonetag": "20L20H*"
+      },
+      {
+        "highkey": 20715,
+        "tonetag": "20L20H^"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "20L20H["
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "20L20H]"
+      }
+    ]
+  },
+    { "lowkey":20457,
+    "pairs": [
+      {
+        "highkey": 20715,
+        "tonetag": "20L20H{"
+      },
+      {
+        "highkey": 20758,
+        "tonetag": "20L20H}"
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "20L20H|"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "20L20H<"
+      }
+    ]
+  },
+    { "lowkey":20500,
+    "pairs": [
+      {
+        "highkey": 20758,
+        "tonetag": "20L20H>"
+      },
+      {
+        "highkey": 20801,
+        "tonetag": "20L20H$"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "20L20H%"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "20L20H#"
+      }
+    ]
+  },
+    { "lowkey":20543,
+    "pairs": [
+      {
+        "highkey": 20801,
+        "tonetag": "20L20H@"
+      },
+      {
+        "highkey": 20844,
+        "tonetag": "20L20H!"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "20L20H("
+      },
+      {
+        "highkey": 20930,
+        "tonetag": "20L20H)"
+      }
+    ]
+  },
+    { "lowkey":20586,
+    "pairs": [
+      {
+        "highkey": 20844,
+        "tonetag": "20L20H+"
+      },
+      {
+        "highkey": 20887,
+        "tonetag": "20L20H-"
+      },
+      {
+        "highkey": 20930,
+        "tonetag": "20L20H="
+      },
+      {
+        "highkey": 20973,
+        "tonetag": "20L20H&"
+      }
+    ]
+  },
+    { "lowkey":20629,
+    "pairs": [
+      {
+        "highkey": 20887,
+        "tonetag": "20L20H\\"
+      },
+      {
+        "highkey": 20930,
+        "tonetag": "20L20H/"
+      }
+    ]
+  }
+  ]
+}
