@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
   spec.license      = { :type => "MIT", :file => "LICENSE" }
   spec.author       = { "Venkatesh S" => "anilkumarunni@gmail.com" }
   spec.source       = { :git => "https://github.com/Anilkumar18/ToneFramework.git", :tag => spec.version.to_s }
-  spec.ios.deployment_target = '14.0'
+  spec.ios.deployment_target = '12.0'
   spec.dependency 'AudioKit', '5.1.0'
   spec.dependency 'SwiftLocation/Core', '5.1.0'
   spec.ios.vendored_frameworks = "Sources/ToneListen.xcframework"
