@@ -6,11 +6,9 @@ import AVFoundation
 import AudioKit
 import Combine
 import CoreAudio
-import CoreLocation
 import Foundation
 import Swift
 import SwiftLocation
-import SwiftUI
 @_exported import ToneListen
 import UIKit
 import UserNotifications
