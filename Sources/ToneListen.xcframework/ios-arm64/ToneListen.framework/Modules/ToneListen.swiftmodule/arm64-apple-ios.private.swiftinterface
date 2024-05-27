@@ -6,9 +6,11 @@ import AVFoundation
 import AudioKit
 import Combine
 import CoreAudio
+import CoreLocation
 import Foundation
 import Swift
 import SwiftLocation
+import SwiftUI
 @_exported import ToneListen
 import UIKit
 import UserNotifications
@@ -19,6 +21,10 @@ import _SwiftConcurrencyShims
   public static func handleContent(actionType: Swift.String, actionUrl: Swift.String)
   public static func checkTone(detectedTone: Swift.String)
   public static func checkToneHourly()
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class GoertzelTabNew {
+  public typealias Handler = ([Swift.Double], [Swift.Double]) -> Swift.Void
   @objc deinit
 }
 public struct ToneFrameworkData {

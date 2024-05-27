@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
   spec.name         = 'ToneListen'
-  spec.version      = '1.0.9'
+  spec.version      = '1.1.0'
   spec.summary      = 'SamplePod enables businesses to detect atmospheric frequencies securely and efficiently.'
  
   spec.description  = 'SamplePod is a tone detection solution that enables businesses to utilize it for detecting any frequencies received on the atmosphere simply, securely and conveniently... SamplePod is a tone detection solution that enables businesses to utilize it for detecting any frequencies received on the atmosphere simply, securely and conveniently...'
